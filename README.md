@@ -12,7 +12,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/87cc2d48-6682-4b0e-a6f6-b5f72fc3dd24" />
+<img width="1920" height="1200" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/bcd07f55-ac25-4df0-8c1d-10c96187b843" />
+
 
 
 ________________________________________
@@ -42,9 +43,12 @@ ________________________________________
 # Output (Screenshots / Ping Results)
 
 Insert screenshots showing ping success, configuration, or simulation results.
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9aedf9e5-1a9b-43fa-95c3-bd13797c6652" />
-<img width="1920" height="1200" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/f20642dd-3608-4541-80a4-cae77562fe64" />
-<img width="1920" height="1200" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/3942ddc9-17e9-4a33-8590-b18180e6b372" />
+<img width="1920" height="1200" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/f8bedcf7-b43b-48af-bc5e-e1dd7f7ddafe" />
+<img width="1920" height="1200" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/fab8e514-f1db-40cd-8d79-698b1ce6baac" />
+<img width="1920" height="1200" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/e6ea8378-2346-49c3-bdb8-4e905cfe88f7" />
+
+
+
 
 
 
